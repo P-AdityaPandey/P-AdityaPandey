@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Aditya Kumar Pandey
+Java Full Stack Developer
 
-<!--
-**P-AdityaPandey/P-AdityaPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building scalable and production-ready applications using modern Java technologies.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
+             Java
+             Spring Boot
+             Spring Security
+             Microservices
+             REST APIs
+             React
+             MySQL
+             MongoDB
+             Docker
+            AWS
+            Git & GitHub
+🌱 Currently Learning
+              Kafka
+              Redis
+              Kubernetes
+             CI/CD
+             System Design
+             Spring AI
+📌 Current Focus
+             Building enterprise-grade Banking Platform
+             Building scalable Microservices
+             Strengthening System Design skills
+             Deploying applications on AWS
+             
+📫 Connect with Me
+             GitHub: https://github.com/P-AdityaPandey
+             Email: p.adityapandey1998@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Build software that solves real problems."
